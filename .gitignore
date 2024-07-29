@@ -1,0 +1,25 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+*.log
+
+# Dependency directories
+jspm_packages/
+
+# Build output
+dist/
+build/
+
+# Environment files
+.env
+
+# Docker
+Dockerfile
+.dockerignore
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
