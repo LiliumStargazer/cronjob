@@ -15,7 +15,6 @@ build/
 .env
 
 # Docker
-Dockerfile
 .dockerignore
 
 # MacOS
