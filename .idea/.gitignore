@@ -3,3 +3,11 @@
 /workspace.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+
+# Escludi cartelle di test o build
+test/
+coverage/
+dist/
+build/
+
+.idea

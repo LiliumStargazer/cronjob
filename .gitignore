@@ -22,3 +22,7 @@ build/
 
 # Windows
 Thumbs.db
+
+info.txt
+
+.idea
