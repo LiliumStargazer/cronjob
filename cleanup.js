@@ -14,7 +14,7 @@ function runCleanup() {
     const options = {
         hostname: 'amservice.ampiovani.locale',
         port: 80,
-        path: '/api/backups/cleanup',
+        path: '/space-cleanup',
         method: 'DELETE'
     };
     const req = http.request(options, res => {
