@@ -22,17 +22,6 @@ This project is a Node.js application that performs a scheduled cleanup task usi
    ```sh
    npm install
    ```
-## Configuration:
-
-   Ensure you have the correct Sentry DSN in the `cleanup.js` file:
-
-   ```javascript
-    Sentry.init({
-        dsn: 'https://your-sentry-dsn',
-        tracesSampleRate: 1,
-        debug: false,
-    });
-   ```
 
 ## Usage:
 
